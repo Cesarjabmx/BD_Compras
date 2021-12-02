@@ -1,0 +1,13 @@
+CREATE DATABASE Compras; 
+USE Compras; 
+
+/*CREATE TABLE Compra(
+articulo varchar (50),
+idArt int ,
+cantidad int,
+fecha varchar(20),
+precioTot int ,
+precioUnit int
+);*/
+
+SELECT * FROM  Compra ; 
